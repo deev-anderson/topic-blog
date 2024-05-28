@@ -9,7 +9,7 @@
 
 ### Tela inicial
 
-![image](https://github.com/deev-anderson/topic-blog/assets/160505511/7c31f2b7-3d66-49e1-b615-f77aa1ad1e2d)
+![image](https://github.com/deev-anderson/topic-blog/assets/160505511/efd193ca-d78b-47fc-b1bf-593abaac1339)
 
 ### Login
 

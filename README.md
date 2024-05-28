@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-  Compartilhe suas publicações com milhares de usuários, pesquise por titulos, adicione a sua lista de leitura, edite e exclua suas postagens de maneira fácil.
+  Compartilhe suas publicações com milhares de usuários, pesquise por titulos, adicione a sua lista de leitura, comente, edite e exclua suas postagens de maneira fácil.
 </td>
 </tr>
 </table>

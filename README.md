@@ -28,6 +28,10 @@
 ### Lista de leitura
 ![image](https://github.com/deev-anderson/topic-blog/assets/160505511/3bc94c73-754a-430f-98f1-2c8199fa69e5)
 
+### Informações do usuário
+![image](https://github.com/deev-anderson/topic-blog/assets/160505511/0674d69a-cce2-4ede-b6b8-973b8356ded3)
+
+
 
 ## Feito com
 

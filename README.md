@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-  Compartilhe suas publicações com milhares de usuários, pesquise por titulos, edite e exclua suas postagens de maneira fácil.
+  Compartilhe suas publicações com milhares de usuários, pesquise por titulos, adicione a sua lista de leitura, edite e exclua suas postagens de maneira fácil.
 </td>
 </tr>
 </table>
@@ -24,6 +24,9 @@
 ### Criar postagem
 
 ![image](https://github.com/deev-anderson/topic-blog/assets/160505511/13095e29-e361-4a42-949c-8ea840add978)
+
+### Lista de leitura
+![image](https://github.com/deev-anderson/topic-blog/assets/160505511/3bc94c73-754a-430f-98f1-2c8199fa69e5)
 
 
 ## Feito com
